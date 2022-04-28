@@ -12,16 +12,16 @@
     "next": "latest",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "ui": "*"
+    "ui": "workspace:*"
   },
   "devDependencies": {
     "@types/node": "^17.0.12",
     "@types/react": "^17.0.37",
     "@types/react-dom": "^17.0.11",
-    "config": "*",
+    "config": "workspace:*",
     "eslint": "^7.32.0",
     "next-transpile-modules": "^9.0.0",
-    "tsconfig": "*",
+    "tsconfig": "workspace:*",
     "typescript": "^4.5.3"
   }
 }
